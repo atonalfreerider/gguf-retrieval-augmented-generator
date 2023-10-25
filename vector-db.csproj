@@ -11,8 +11,10 @@
     <ItemGroup>
       <PackageReference Include="LLamaSharp" Version="0.6.0" />
       <PackageReference Include="LLamaSharp.Backend.Cuda11" Version="0.6.0" />
+      <PackageReference Include="PDFsharp" Version="6.0.0-preview-4" />
       <PackageReference Include="System.CommandLine" Version="2.0.0-beta4.22272.1" />
       <PackageReference Include="System.CommandLine.NamingConventionBinder" Version="2.0.0-beta4.22272.1" />
+      <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
     </ItemGroup>
 
 </Project>
