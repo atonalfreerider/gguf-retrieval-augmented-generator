@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using System.Data.SQLite;
 
-namespace vector_db;
+namespace gguf_RAG;
 
 public static class SqliteInput
 {

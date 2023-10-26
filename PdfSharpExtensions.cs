@@ -2,7 +2,7 @@
 using PdfSharp.Pdf.Content;
 using PdfSharp.Pdf.Content.Objects;
 
-namespace vector_db;
+namespace gguf_RAG;
 
 public static class PdfSharpExtensions
 {

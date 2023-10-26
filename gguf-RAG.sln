@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vector-db", "vector-db.csproj", "{2D6FEBE1-9D99-4653-BB3C-48D39639A887}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gguf-RAG", "gguf-RAG.csproj", "{2D6FEBE1-9D99-4653-BB3C-48D39639A887}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
